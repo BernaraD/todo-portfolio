@@ -6,7 +6,7 @@ const devConfig = {
     password: process.env.PASSWORD,
     host: process.env.HOST,
     database: process.env.PG_DATABASE,
-    port: process.env.DBPORT,
+    port: process.env.PG_PORT,
 };
 
 const prodConfig = {
