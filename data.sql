@@ -1,4 +1,4 @@
-CREATE DATABASE todoapp;
+-- CREATE DATABASE todoapp;
 
 CREATE TABLE todos (
     id         VARCHAR(255) PRIMARY KEY,
