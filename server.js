@@ -1,23 +1,26 @@
-const path = require("path"); // native Node js will let us work with directory paths
+const path = require( "path" ); // native Node js will let us work with directory paths
 const { v4: uuidv4 } = require( 'uuid' );
 const cors = require( 'cors' );
 const express = require( "express" );
 const pool = require( "./db" );
 const bcrypt = require( 'bcrypt' );
 const jwt = require( 'jsonwebtoken' )
-
-
 const PORT = process.env.PORT ?? 9000;
+
 const app = express();
+
+//middleware
 app.use( cors() );
 app.use( express.json() );
 
 if (process.env.NODE_ENV === 'production') {
     //serve static content
-    app.use( express.static(path.join(__dirname, "client/build")) )
+    app.use( express.static( path.join( __dirname, "client/build" ) ) )
 }
-console.log(__dirname)
-console.log(path.join(__dirname, "client/build"))
+console.log( __dirname )
+console.log( path.join( __dirname, "client/build" ) )
+
+//ROUTES
 
 //get all todos
 app.get( '/todos/:userEmail', async (req, res) => {
@@ -124,8 +127,10 @@ app.post( '/login', async (req, res) => {
 } )
 
 //Any other routes. Wildcard
-app.get("*", (req, res) => {
-    res.sendFile(path.join(__dirname, "client/build/index.html"));
-})
+app.get( "*", (req, res) => {
+    res.sendFile( path.join( __dirname, "client/build/index.html" ) );
+} )
 
-app.listen( PORT, () => console.log( `Server is running on port ${ PORT }` ) );
+app.listen( PORT, () => {
+    console.log( `Server is running on port ${ PORT }` )
+} );
