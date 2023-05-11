@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a1a13ae-9f3f-4499-a79f-0d95e4601cb7" name="Changes" comment="removed .env">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todo-portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.promise.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.weakref.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/protocol.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescriptServices.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescriptServices.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.env" beforeDir="false" afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/favicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.c0011315.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/css/main.c0011315.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.eba27aa9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.eba27aa9.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/build/static/js/main.eba27aa9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/05a1ce47b083709fa87f7a7db602bca9c4f3c41a592c8c70cba48d7bbec102df.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/12368006ae5c04926f1eef933d98b18af86e8ffde6f2c8e6a756d051515cdec9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/184f2755374093b970c68356a840aff81bd6f86722c433fdd8cff3adc9bf1329.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/204beb3c3d24d20a33fa1b173beaa18fab3bf3322913d52411da6d538d20fdd1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/24554fc79bb755f7710a49a7b88bb20b82d0f4019c6701aaea61f5e2ba430916.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/26179463acf7c657e4c917bdc10444b814b96b3f67d04d1ddcb34b82a7e96394.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/28ae30433efc69def2fc041b2fb70b9fc067a7e54e3a2acc335f97fdc434637f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/34984de6664bc9d124ff9088392cfb02d69696cdfbcf817328b68ef21b43978f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/4102d9a839525f595c97adb09aef7fe7942759afe93f07de99b1886e6e8fee47.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/4827c7f0d9cf3f0e032c0a5109c2bad50ae8cd1b8d59889973a0b005f006a960.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/4ba4e988c28bfffa0d5e7e53f4f43131a51a523de18ea66f093d0c5ac0bd0c9a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/4bfdf27987fb81e969e06904f5bfd74d39004f488c66dda7d5c8f052e87a527c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/578d8bf6aa4912b01a2d6d5c78aa5e0eb2277f80401b0db56d12f0c0a9ac751c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/63844526dfe4a171f8326ed078ab2b85e40fb024d2b2c8f774d829ff19bfb45f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/697daf24ca06468109927e08fa67931f380c14d79975754d207495a676b69296.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/6d75ff911e998bb563784d48f9a52c72852e43d974c2e7f3b649f3bbf7604ec1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/7011eebbde22956029d54f785aa24b2b474d75e13faa06a41706d81762b1d8dc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/78144bd31dd8eae91ed464aa6ad3face34ccac3b79bc9063f60a08b931918409.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/8b8e57d624b804ce033d9c8f9d9ebbe4e1f35eba9581914cfef2dd6eb9abf7c2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/95e0725d08a210136db46eda14a106791ebf2e86ef76d57c8487ae39385b63ab.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/a4bc768afb2ee375e3bcbc0930ccd6ab53afb0e6ce28998919c5baa260909696.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/ab8f69688a49b1692c3113cf8c51b358ed30ac1dedee9b7a598a18ee0746b2be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/b58061f50a0a36c8326c05c9f5d7dcca8e8d7e52833236979716b9c57f465253.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/bbd53fc4616048ac1c8531cb503f4e2c0550baf7158420e1c2daa1e8109e17a6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/bd3a8ba0f1d4e735f27e916d87446bf3486f46402a3a49eba128e86597c0168b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/c720a3d74dfd63d76e033ef3a82e50102f6e7022daf9fb57bb0987d9119fc793.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/c87e7d1d9ab93b82aa0e4b8628b9284793b9828db619d4736d2a123306cbb482.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/c9c2ee4b5fdddeaff5937271fda945e367e667416e79a499a268c9162e0d50f5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/d3a9c8341cd9eedcd51849b23ddba06627df68a088d3b12ec53251c03992873e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/d42bb18d0b7f7a139b41db6726bdee8bc09f4659317705a91ef35902341fd0b5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/d81749fafb34778ee69e043762dd40d408d71910a7eee67821d09cfd00df72ae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/dfb1487d4ea02055945e22fbbdb64c267c34995f09f10dc322fd621b9d38fb84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/e098b237c44ac62226ed9d939eb4b2500098d9d3b939510889e70b2d6af42ffe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/ee968598c47c1b1b97c24cee28e1644dedadbbc18a2d012e5191e55333a547d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/f3e72aa9e357f002ba32aa5509afba53b21398d79a81cdee69d8032ed1b0ec4f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/f79164b129d9c68dad19f7157a02f6efbe6bd366bdcd8299e81097f386c19062.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/f847c50d9a2b874d2b0e0ab050a6a40c8037d24843456ed8ee7f483d4d340809.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/babel-loader/f9640daf02ec6bae2e82cc1223bc61bb1d639b7f7ead0008af73d8e3611d25fc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.cache/default-development/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/1.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/10.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/2.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/3.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/4.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/6.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/7.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/8.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/9.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.cache/default-development/index.pack.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/cancellationToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/cancellationToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/cs/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/de/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/de/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/es/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/es/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/fr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/it/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/it/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/ja/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/ko/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.decorators.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.decorators.legacy.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.dom.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.dom.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.dom.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.dom.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.collection.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.collection.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.core.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.core.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.generator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.generator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.proxy.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.proxy.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.reflect.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.reflect.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.array.include.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.array.include.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2016.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2018.regexp.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.symbol.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2019.symbol.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.bigint.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.bigint.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.date.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.date.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.number.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.number.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.promise.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.promise.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.weakref.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2021.weakref.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.array.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.array.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.error.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.error.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.object.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.object.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.regexp.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.sharedmemory.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.string.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2022.string.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2023.array.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2023.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es2023.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/dynamicImportCompat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es5.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es5.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es6.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.es6.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.full.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.full.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.intl.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.esnext.intl.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.scripthost.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.scripthost.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.importscripts.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.iterable.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/lib.webworker.iterable.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/pl/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/pt-br/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/ru/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/tr/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsc.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserver.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserverlibrary.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserverlibrary.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserverlibrary.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/tsserverlibrary.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescript.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescript.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/typingsInstaller.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/typingsInstaller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/watchGuard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/watchGuard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/zh-cn/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/lib/zh-tw/diagnosticMessages.generated.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/node_modules/typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/node_modules/typescript/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2P1ElL5S3Wl5ED7aSdBFWq5fVRh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bernarad/WebstormProjects/todo-portfolio&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/build/static" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/server/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/client/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.start (2)" />
+        <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a1a13ae-9f3f-4499-a79f-0d95e4601cb7" name="Changes" comment="" />
+      <created>1682616338277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682616338277</updated>
+      <workItem from="1682616341235" duration="5449000" />
+      <workItem from="1682630486097" duration="5976000" />
+      <workItem from="1682970726634" duration="48017000" />
+      <workItem from="1683246012111" duration="22038000" />
+      <workItem from="1683595152779" duration="18723000" />
+      <workItem from="1683720604470" duration="6554000" />
+      <workItem from="1683747008039" duration="7230000" />
+      <workItem from="1683813831461" duration="184000" />
+      <workItem from="1683814028515" duration="111000" />
+      <workItem from="1683814148593" duration="664000" />
+      <workItem from="1683814863712" duration="2404000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed .env">
+      <created>1683747227380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683747227380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed .env">
+      <created>1683810656001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683810656001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed .env">
+      <created>1683817419374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683817419374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed .env" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed .env" />
+  </component>
+</project>

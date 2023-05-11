@@ -10,6 +10,7 @@
   "scripts": {
     "start": "nodemon server.js",
     "heroku-postbuild": "cd client && npm install && npm run build",
+
     "deploy": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
